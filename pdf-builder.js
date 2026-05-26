@@ -146,7 +146,7 @@
                 });
                 html += `</tbody></table>
 
-                    <h5>Präteritum (imperfect / mai mult ca perfect — RO: imperfect)</h5>
+                    <h5>Präteritum (imperfect / timp scris)</h5>
                     <table><thead><tr><th>Pronume</th><th>Formă</th><th>Traducere RO</th></tr></thead><tbody>`;
                 v.praet.forEach(row => {
                     html += `<tr><td><strong>${row[0]}</strong></td><td class="verb">${row[1]}</td><td class="ro-text">${row[2]}</td></tr>`;
