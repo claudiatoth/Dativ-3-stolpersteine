@@ -77,38 +77,38 @@ const theoryHTML = `
                 <span class="lesson-audio-label">🔊 Ascultă subsecțiunea</span>
             </div>
 
-            <div class="theory-box" style="background: #fef3c7;">
+            <div class="theory-box" style="background: #F5F0E8;">
                 <h4>🚨 Capcana 1: nach Hause vs zu Hause</h4>
                 <p>Cea mai clasică capcană pentru începători. AMBELE = „acasă", DAR:</p>
                 <table class="grammar-table">
                     <tr><th>Forma</th><th>Sens</th><th>Exemplu</th><th>Traducere RO</th></tr>
-                    <tr><td><strong>nach Hause</strong></td><td>MIȘCARE — merg ACASĂ</td><td>Ich gehe nach Hause.</td><td><em style="color:#6b7280;">Merg acasă. (mă deplasez)</em></td></tr>
-                    <tr><td><strong>zu Hause</strong></td><td>POZIȚIE — sunt ACASĂ</td><td>Ich bin zu Hause.</td><td><em style="color:#6b7280;">Sunt acasă. (deja acolo)</em></td></tr>
+                    <tr><td><strong>nach Hause</strong></td><td>MIȘCARE — merg ACASĂ</td><td>Ich gehe nach Hause.</td><td><em style="color:#5A5147;">Merg acasă. (mă deplasez)</em></td></tr>
+                    <tr><td><strong>zu Hause</strong></td><td>POZIȚIE — sunt ACASĂ</td><td>Ich bin zu Hause.</td><td><em style="color:#5A5147;">Sunt acasă. (deja acolo)</em></td></tr>
                 </table>
                 <p style="margin-top: 8px;">📌 AMBELE expresii FIXE — fără articol! NU spui „<em>zu DEM Hause</em>" (greșit) sau „<em>nach DEM Hause</em>" (greșit).</p>
             </div>
 
-            <div class="theory-box" style="background: #fef3c7;">
+            <div class="theory-box" style="background: #F5F0E8;">
                 <h4>🚨 Capcana 2: bei + persoană (POZIȚIE) vs zu + persoană (MIȘCARE)</h4>
                 <p>Same regulă mișcare/poziție — dar cu PERSOANE. AMBELE cer Dativ.</p>
                 <table class="grammar-table">
                     <tr><th>Forma</th><th>Sens</th><th>Exemplu</th><th>Traducere RO</th></tr>
-                    <tr><td><strong>bei + persoană</strong></td><td>POZIȚIE — la cineva (deja acolo)</td><td>Carolina ist bei ihrer Mutter.</td><td><em style="color:#6b7280;">Carolina e la mama. (deja acolo)</em></td></tr>
-                    <tr><td><strong>zu + persoană</strong></td><td>MIȘCARE — la cineva (te duci)</td><td>Carolina geht zu ihrer Mutter.</td><td><em style="color:#6b7280;">Carolina merge la mama.</em></td></tr>
+                    <tr><td><strong>bei + persoană</strong></td><td>POZIȚIE — la cineva (deja acolo)</td><td>Carolina ist bei ihrer Mutter.</td><td><em style="color:#5A5147;">Carolina e la mama. (deja acolo)</em></td></tr>
+                    <tr><td><strong>zu + persoană</strong></td><td>MIȘCARE — la cineva (te duci)</td><td>Carolina geht zu ihrer Mutter.</td><td><em style="color:#5A5147;">Carolina merge la mama.</em></td></tr>
                 </table>
                 <p style="margin-top: 8px;">📌 La Carolina = STARE. La cineva = ACȚIUNE.</p>
             </div>
 
-            <div class="theory-box" style="background: #fef3c7;">
+            <div class="theory-box" style="background: #F5F0E8;">
                 <h4>🆕 🚨 Capcana 3: bei + activitate (gerund) — beim Essen, beim Lesen</h4>
                 <p>O construcție tipic germană: <strong>bei + activitate substantivizată</strong> = „în timp ce". Activitatea devine substantiv (cu majusculă), Dativ obligatoriu:</p>
                 <table class="grammar-table">
                     <tr><th>Activitate verb</th><th>Substantivizată bei + Dat</th><th>Traducere RO</th></tr>
-                    <tr><td>essen</td><td><strong>beim</strong> Essen</td><td><em style="color:#6b7280;">în timp ce mănânc / la masă</em></td></tr>
-                    <tr><td>lesen</td><td><strong>beim</strong> Lesen</td><td><em style="color:#6b7280;">în timp ce citesc</em></td></tr>
-                    <tr><td>arbeiten</td><td><strong>bei der</strong> Arbeit</td><td><em style="color:#6b7280;">la lucru / în timp ce lucrez</em></td></tr>
-                    <tr><td>kochen</td><td><strong>beim</strong> Kochen</td><td><em style="color:#6b7280;">în timp ce gătesc</em></td></tr>
-                    <tr><td>schlafen</td><td><strong>beim</strong> Schlafen</td><td><em style="color:#6b7280;">în timp ce dorm</em></td></tr>
+                    <tr><td>essen</td><td><strong>beim</strong> Essen</td><td><em style="color:#5A5147;">în timp ce mănânc / la masă</em></td></tr>
+                    <tr><td>lesen</td><td><strong>beim</strong> Lesen</td><td><em style="color:#5A5147;">în timp ce citesc</em></td></tr>
+                    <tr><td>arbeiten</td><td><strong>bei der</strong> Arbeit</td><td><em style="color:#5A5147;">la lucru / în timp ce lucrez</em></td></tr>
+                    <tr><td>kochen</td><td><strong>beim</strong> Kochen</td><td><em style="color:#5A5147;">în timp ce gătesc</em></td></tr>
+                    <tr><td>schlafen</td><td><strong>beim</strong> Schlafen</td><td><em style="color:#5A5147;">în timp ce dorm</em></td></tr>
                 </table>
                 <p style="margin-top: 8px;">Exemplu: <em>Beim Essen sprechen wir nicht.</em> = În timp ce mâncăm nu vorbim. · <em>Mihai liest beim Frühstück.</em> = Mihai citește la micul dejun.</p>
             </div>
@@ -130,41 +130,41 @@ const theoryHTML = `
                 <span class="lesson-audio-label">🔊 Ascultă subsecțiunea</span>
             </div>
 
-            <div class="theory-box" style="background: #fef3c7;">
+            <div class="theory-box" style="background: #F5F0E8;">
                 <h4>🚨 Capcana 4: aus + țară — FĂRĂ articol vs CU articol</h4>
                 <p>Majoritatea țărilor sunt fără articol în germană → <strong>aus + țară</strong> direct, fără articol. DAR există un grup mic cu articol obligatoriu:</p>
                 <table class="grammar-table">
                     <tr><th>Țări FĂRĂ articol (majoritatea)</th><th>Țări CU articol (excepții)</th><th>Traducere RO</th></tr>
-                    <tr><td>aus Deutschland</td><td>aus <strong>der</strong> Türkei (fem)</td><td><em style="color:#6b7280;">din Germania · din Turcia</em></td></tr>
-                    <tr><td>aus Rumänien</td><td>aus <strong>der</strong> Schweiz (fem)</td><td><em style="color:#6b7280;">din România · din Elveția</em></td></tr>
-                    <tr><td>aus Frankreich</td><td>aus <strong>der</strong> Ukraine (fem)</td><td><em style="color:#6b7280;">din Franța · din Ucraina</em></td></tr>
-                    <tr><td>aus Italien</td><td>aus <strong>den</strong> USA (plural +-n!)</td><td><em style="color:#6b7280;">din Italia · din SUA</em></td></tr>
-                    <tr><td>aus Spanien</td><td>aus <strong>den</strong> Niederlanden (plural)</td><td><em style="color:#6b7280;">din Spania · din Olanda</em></td></tr>
+                    <tr><td>aus Deutschland</td><td>aus <strong>der</strong> Türkei (fem)</td><td><em style="color:#5A5147;">din Germania · din Turcia</em></td></tr>
+                    <tr><td>aus Rumänien</td><td>aus <strong>der</strong> Schweiz (fem)</td><td><em style="color:#5A5147;">din România · din Elveția</em></td></tr>
+                    <tr><td>aus Frankreich</td><td>aus <strong>der</strong> Ukraine (fem)</td><td><em style="color:#5A5147;">din Franța · din Ucraina</em></td></tr>
+                    <tr><td>aus Italien</td><td>aus <strong>den</strong> USA (plural +-n!)</td><td><em style="color:#5A5147;">din Italia · din SUA</em></td></tr>
+                    <tr><td>aus Spanien</td><td>aus <strong>den</strong> Niederlanden (plural)</td><td><em style="color:#5A5147;">din Spania · din Olanda</em></td></tr>
                 </table>
                 <p style="margin-top: 8px;">📌 Truc: dacă țara are <strong>articol în Nominativ</strong> (die Türkei, die Schweiz, das Frankreich nu există, dar die USA pluralul), atunci articolul rămâne la Dativ. Trebuie memorate țările-excepție.</p>
             </div>
 
-            <div class="theory-box" style="background: #fef3c7;">
+            <div class="theory-box" style="background: #F5F0E8;">
                 <h4>🚨 Capcana 5: nach + țară/oraș (FĂRĂ articol) vs in + țară (CU articol — pentru excepții)</h4>
                 <p>Pentru destinație (Wohin?) cu țări fără articol → folosești <strong>nach</strong>. Cu țări cu articol → folosești <strong>in + Akkusativ</strong> (Wechselpräp Wohin)!</p>
                 <table class="grammar-table">
                     <tr><th>Țară fără articol (nach)</th><th>Țară cu articol (in + Akk)</th><th>Traducere RO</th></tr>
-                    <tr><td>nach Deutschland</td><td>in <strong>die</strong> Türkei</td><td><em style="color:#6b7280;">în Germania · în Turcia</em></td></tr>
-                    <tr><td>nach Berlin</td><td>in <strong>die</strong> Schweiz</td><td><em style="color:#6b7280;">la Berlin · în Elveția</em></td></tr>
-                    <tr><td>nach Italien</td><td>in <strong>die</strong> USA</td><td><em style="color:#6b7280;">în Italia · în SUA</em></td></tr>
+                    <tr><td>nach Deutschland</td><td>in <strong>die</strong> Türkei</td><td><em style="color:#5A5147;">în Germania · în Turcia</em></td></tr>
+                    <tr><td>nach Berlin</td><td>in <strong>die</strong> Schweiz</td><td><em style="color:#5A5147;">la Berlin · în Elveția</em></td></tr>
+                    <tr><td>nach Italien</td><td>in <strong>die</strong> USA</td><td><em style="color:#5A5147;">în Italia · în SUA</em></td></tr>
                 </table>
                 <p style="margin-top: 8px;">📌 ATENȚIE: aici <strong>in + țară cu articol = Akkusativ</strong> (mișcare spre = Wohin = Akk, recap Atelier #1). NU Dativ!</p>
             </div>
 
-            <div class="theory-box" style="background: #fef3c7;">
+            <div class="theory-box" style="background: #F5F0E8;">
                 <h4>🚨 Capcana 6: aus + material (FĂRĂ articol)</h4>
                 <p>Pentru materialul din care e făcut ceva → <strong>aus + material fără articol</strong>:</p>
                 <table class="grammar-table">
                     <tr><th>Construcție</th><th>Exemplu</th><th>Traducere RO</th></tr>
-                    <tr><td>aus + metal</td><td>Der Ring ist <strong>aus</strong> Gold.</td><td><em style="color:#6b7280;">Inelul e din aur.</em></td></tr>
-                    <tr><td>aus + lemn</td><td>Der Tisch ist <strong>aus</strong> Holz.</td><td><em style="color:#6b7280;">Masa e din lemn.</em></td></tr>
-                    <tr><td>aus + plastic</td><td>Die Flasche ist <strong>aus</strong> Plastik.</td><td><em style="color:#6b7280;">Sticla e din plastic.</em></td></tr>
-                    <tr><td>aus + țesătură</td><td>Das Hemd ist <strong>aus</strong> Baumwolle.</td><td><em style="color:#6b7280;">Cămașa e din bumbac.</em></td></tr>
+                    <tr><td>aus + metal</td><td>Der Ring ist <strong>aus</strong> Gold.</td><td><em style="color:#5A5147;">Inelul e din aur.</em></td></tr>
+                    <tr><td>aus + lemn</td><td>Der Tisch ist <strong>aus</strong> Holz.</td><td><em style="color:#5A5147;">Masa e din lemn.</em></td></tr>
+                    <tr><td>aus + plastic</td><td>Die Flasche ist <strong>aus</strong> Plastik.</td><td><em style="color:#5A5147;">Sticla e din plastic.</em></td></tr>
+                    <tr><td>aus + țesătură</td><td>Das Hemd ist <strong>aus</strong> Baumwolle.</td><td><em style="color:#5A5147;">Cămașa e din bumbac.</em></td></tr>
                 </table>
                 <p style="margin-top: 8px;">📌 NU spui „<em>aus DEM Gold</em>" sau „<em>aus DEM Holz</em>" — materialul rămâne fără articol când vorbim de ce e făcut un obiect.</p>
             </div>
@@ -186,38 +186,38 @@ const theoryHTML = `
                 <span class="lesson-audio-label">🔊 Ascultă subsecțiunea</span>
             </div>
 
-            <div class="theory-box" style="background: #fef3c7;">
+            <div class="theory-box" style="background: #F5F0E8;">
                 <h4>🚨 Capcana 7: seit (de când, continuă) — Dativ obligatoriu</h4>
                 <p><strong>seit + Dativ</strong> înseamnă „de când" — o acțiune care a început în trecut și CONTINUĂ până ACUM:</p>
                 <table class="grammar-table">
                     <tr><th>Construcție</th><th>Exemplu</th><th>Traducere RO</th></tr>
-                    <tr><td>seit + perioadă (Dat)</td><td>Mihai wohnt <strong>seit drei Jahren</strong> in Berlin.</td><td><em style="color:#6b7280;">Mihai locuiește de 3 ani în Berlin. (continuă!)</em></td></tr>
-                    <tr><td>seit + dată</td><td>Andreea studiert <strong>seit September</strong> in Berlin.</td><td><em style="color:#6b7280;">Andreea studiază din septembrie.</em></td></tr>
-                    <tr><td>seit + eveniment</td><td>Florian arbeitet <strong>seit dem Urlaub</strong>.</td><td><em style="color:#6b7280;">Florian lucrează de la concediu.</em></td></tr>
+                    <tr><td>seit + perioadă (Dat)</td><td>Mihai wohnt <strong>seit drei Jahren</strong> in Berlin.</td><td><em style="color:#5A5147;">Mihai locuiește de 3 ani în Berlin. (continuă!)</em></td></tr>
+                    <tr><td>seit + dată</td><td>Andreea studiert <strong>seit September</strong> in Berlin.</td><td><em style="color:#5A5147;">Andreea studiază din septembrie.</em></td></tr>
+                    <tr><td>seit + eveniment</td><td>Florian arbeitet <strong>seit dem Urlaub</strong>.</td><td><em style="color:#5A5147;">Florian lucrează de la concediu.</em></td></tr>
                 </table>
                 <p style="margin-top: 8px;">⚠️ NU spui „<em>seit 5 Jahren</em>" pentru vârstă — vârsta e „<em>Ich bin 5 Jahre alt</em>".</p>
             </div>
 
-            <div class="theory-box" style="background: #fef3c7;">
+            <div class="theory-box" style="background: #F5F0E8;">
                 <h4>🚨 Capcana 8: vor + Dativ (acum X timp, în trecut)</h4>
                 <p><strong>vor + Dativ</strong> înseamnă „acum X timp în urmă" — moment punctual în trecut (NU continuă!):</p>
                 <table class="grammar-table">
                     <tr><th>Exemplu</th><th>Traducere RO</th></tr>
-                    <tr><td>Andreea ist <strong>vor zwei Wochen</strong> nach Berlin gefahren.</td><td><em style="color:#6b7280;">Andreea a plecat la Berlin acum două săptămâni.</em></td></tr>
-                    <tr><td>Wir haben uns <strong>vor einem Jahr</strong> kennengelernt.</td><td><em style="color:#6b7280;">Ne-am cunoscut acum un an.</em></td></tr>
-                    <tr><td><strong>Vor drei Tagen</strong> hat es geregnet.</td><td><em style="color:#6b7280;">Acum trei zile a plouat.</em></td></tr>
+                    <tr><td>Andreea ist <strong>vor zwei Wochen</strong> nach Berlin gefahren.</td><td><em style="color:#5A5147;">Andreea a plecat la Berlin acum două săptămâni.</em></td></tr>
+                    <tr><td>Wir haben uns <strong>vor einem Jahr</strong> kennengelernt.</td><td><em style="color:#5A5147;">Ne-am cunoscut acum un an.</em></td></tr>
+                    <tr><td><strong>Vor drei Tagen</strong> hat es geregnet.</td><td><em style="color:#5A5147;">Acum trei zile a plouat.</em></td></tr>
                 </table>
                 <p style="margin-top: 8px;">⚠️ Capcană: <em>vor</em> e și Wechselpräp pentru POZIȚIE spațială (vor der Tür = în fața ușii). Aici e folosire TEMPORALĂ — context decide.</p>
             </div>
 
-            <div class="theory-box" style="background: #fef3c7;">
+            <div class="theory-box" style="background: #F5F0E8;">
                 <h4>🚨 Capcana 9: in + lună/anotimp (Wechselpräp în Dativ — POZIȚIE temporală)</h4>
                 <p><strong>in + Dativ</strong> pentru lună/anotimp = „în luna X / în anotimpul X":</p>
                 <table class="grammar-table">
                     <tr><th>Construcție</th><th>Exemplu</th><th>Traducere RO</th></tr>
-                    <tr><td>im + lună (masculin)</td><td><strong>im</strong> Januar / <strong>im</strong> Juli</td><td><em style="color:#6b7280;">în ianuarie · în iulie</em></td></tr>
-                    <tr><td>im + anotimp (masculin)</td><td><strong>im</strong> Sommer / <strong>im</strong> Winter</td><td><em style="color:#6b7280;">vara · iarna</em></td></tr>
-                    <tr><td>in + plural (decenii)</td><td>in <strong>den</strong> Neunziger<strong>n</strong></td><td><em style="color:#6b7280;">în anii '90</em></td></tr>
+                    <tr><td>im + lună (masculin)</td><td><strong>im</strong> Januar / <strong>im</strong> Juli</td><td><em style="color:#5A5147;">în ianuarie · în iulie</em></td></tr>
+                    <tr><td>im + anotimp (masculin)</td><td><strong>im</strong> Sommer / <strong>im</strong> Winter</td><td><em style="color:#5A5147;">vara · iarna</em></td></tr>
+                    <tr><td>in + plural (decenii)</td><td>in <strong>den</strong> Neunziger<strong>n</strong></td><td><em style="color:#5A5147;">în anii '90</em></td></tr>
                 </table>
                 <p style="margin-top: 8px;">📌 NU confundați cu <strong>am + zi</strong> (am Montag = lunea) — recap Lecția 13 A1.</p>
             </div>
@@ -250,36 +250,36 @@ const theoryHTML = `
                 <span class="lesson-audio-label">🔊 Ascultă subsecțiunea</span>
             </div>
 
-            <div class="theory-box" style="background: #fef3c7;">
+            <div class="theory-box" style="background: #F5F0E8;">
                 <h4>🚨 Capcana 10: mit (partener) vs für (beneficiar) vs gegen (adversar)</h4>
                 <p>Trei prepoziții diferite — trei roluri diferite. Atenție: <strong>für și gegen cer AKKUSATIV</strong>, NU Dativ! Le includem aici pentru contrast.</p>
                 <table class="grammar-table">
                     <tr><th>Prepoziție</th><th>Rol</th><th>Caz</th><th>Exemplu</th><th>Traducere RO</th></tr>
-                    <tr><td><strong>mit</strong></td><td>PARTENER (împreună cu)</td><td>Dativ</td><td>Andreea spielt <strong>mit ihrem</strong> Bruder.</td><td><em style="color:#6b7280;">Andreea se joacă cu fratele ei. (împreună)</em></td></tr>
-                    <tr><td><strong>für</strong></td><td>BENEFICIAR (pentru)</td><td>Akk</td><td>Carolina kauft Blumen <strong>für ihren</strong> Vater.</td><td><em style="color:#6b7280;">Carolina cumpără flori pentru tatăl ei.</em></td></tr>
-                    <tr><td><strong>gegen</strong></td><td>ADVERSAR (împotriva)</td><td>Akk</td><td>Florian spielt Tennis <strong>gegen seinen</strong> Bruder.</td><td><em style="color:#6b7280;">Florian joacă tenis împotriva fratelui lui.</em></td></tr>
+                    <tr><td><strong>mit</strong></td><td>PARTENER (împreună cu)</td><td>Dativ</td><td>Andreea spielt <strong>mit ihrem</strong> Bruder.</td><td><em style="color:#5A5147;">Andreea se joacă cu fratele ei. (împreună)</em></td></tr>
+                    <tr><td><strong>für</strong></td><td>BENEFICIAR (pentru)</td><td>Akk</td><td>Carolina kauft Blumen <strong>für ihren</strong> Vater.</td><td><em style="color:#5A5147;">Carolina cumpără flori pentru tatăl ei.</em></td></tr>
+                    <tr><td><strong>gegen</strong></td><td>ADVERSAR (împotriva)</td><td>Akk</td><td>Florian spielt Tennis <strong>gegen seinen</strong> Bruder.</td><td><em style="color:#5A5147;">Florian joacă tenis împotriva fratelui lui.</em></td></tr>
                 </table>
                 <p style="margin-top: 8px;">📌 La sport: <strong>mit + partener de echipă</strong> · <strong>gegen + echipa adversă</strong>. Same lecție: Spielen MIT der Mannschaft GEGEN die Gegner.</p>
             </div>
 
-            <div class="theory-box" style="background: #fef3c7;">
+            <div class="theory-box" style="background: #F5F0E8;">
                 <h4>🚨 Capcana 11: von + nume propriu (FĂRĂ articol) vs von + rol (CU articol)</h4>
                 <table class="grammar-table">
                     <tr><th>Folosire</th><th>Exemplu</th><th>Traducere RO</th></tr>
-                    <tr><td><strong>von + nume propriu</strong> (fără articol)</td><td>Das Buch ist <strong>von</strong> Mihai.</td><td><em style="color:#6b7280;">Cartea e de la Mihai. (sau a lui Mihai)</em></td></tr>
-                    <tr><td><strong>von + rol/profesie</strong> (cu articol)</td><td>Das Buch ist <strong>von der</strong> Lehrerin.</td><td><em style="color:#6b7280;">Cartea e de la profesoară.</em></td></tr>
-                    <tr><td><strong>von + posesie</strong> (informal Genitiv)</td><td>Das Auto <strong>von</strong> Acar = Acars Auto</td><td><em style="color:#6b7280;">Mașina lui Acar.</em></td></tr>
+                    <tr><td><strong>von + nume propriu</strong> (fără articol)</td><td>Das Buch ist <strong>von</strong> Mihai.</td><td><em style="color:#5A5147;">Cartea e de la Mihai. (sau a lui Mihai)</em></td></tr>
+                    <tr><td><strong>von + rol/profesie</strong> (cu articol)</td><td>Das Buch ist <strong>von der</strong> Lehrerin.</td><td><em style="color:#5A5147;">Cartea e de la profesoară.</em></td></tr>
+                    <tr><td><strong>von + posesie</strong> (informal Genitiv)</td><td>Das Auto <strong>von</strong> Acar = Acars Auto</td><td><em style="color:#5A5147;">Mașina lui Acar.</em></td></tr>
                 </table>
                 <p style="margin-top: 8px;">📌 NU spui „<em>von DER Andreea</em>" la limbă standard — doar la dialecte colocviale.</p>
             </div>
 
-            <div class="theory-box" style="background: #fef3c7;">
+            <div class="theory-box" style="background: #F5F0E8;">
                 <h4>🚨 Capcana 12: bei + meserie vs bei + companie</h4>
                 <table class="grammar-table">
                     <tr><th>Folosire</th><th>Exemplu</th><th>Traducere RO</th></tr>
-                    <tr><td><strong>Sein + meserie</strong> (fără bei!)</td><td>Florian ist <strong>Arzt</strong>.</td><td><em style="color:#6b7280;">Florian e medic. (profesia)</em></td></tr>
-                    <tr><td><strong>arbeiten bei + companie</strong></td><td>Acar arbeitet <strong>bei Audi</strong>.</td><td><em style="color:#6b7280;">Acar lucrează la Audi. (angajator)</em></td></tr>
-                    <tr><td><strong>arbeiten als + meserie</strong></td><td>Mihai arbeitet <strong>als Koch</strong>.</td><td><em style="color:#6b7280;">Mihai lucrează ca bucătar.</em></td></tr>
+                    <tr><td><strong>Sein + meserie</strong> (fără bei!)</td><td>Florian ist <strong>Arzt</strong>.</td><td><em style="color:#5A5147;">Florian e medic. (profesia)</em></td></tr>
+                    <tr><td><strong>arbeiten bei + companie</strong></td><td>Acar arbeitet <strong>bei Audi</strong>.</td><td><em style="color:#5A5147;">Acar lucrează la Audi. (angajator)</em></td></tr>
+                    <tr><td><strong>arbeiten als + meserie</strong></td><td>Mihai arbeitet <strong>als Koch</strong>.</td><td><em style="color:#5A5147;">Mihai lucrează ca bucătar.</em></td></tr>
                 </table>
                 <p style="margin-top: 8px;">📌 NU spui „<em>Ich bin bei Arzt</em>" (greșit) → Ich BIN Arzt (sunt medic) sau Ich GEHE zum Arzt (merg la doctor).</p>
             </div>

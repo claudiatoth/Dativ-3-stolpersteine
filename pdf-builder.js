@@ -50,7 +50,7 @@
         // grammar-table → table (deja gestionat de CSS)
         t = t.replace(/<table class="grammar-table">/g, '<table>');
         // Clean misc inline styles pentru consistență
-        t = t.replace(/<div class="theory-box"\s+style="background:\s*#fef3c7[^"]*"[^>]*>/g, '<div class="theory-box warn-box">');
+        t = t.replace(/<div class="theory-box"\s+style="background:\s*#F5F0E8[^"]*"[^>]*>/g, '<div class="theory-box warn-box">');
         t = t.replace(/<div class="theory-box"\s+style="background:\s*#d1fae5[^"]*"[^>]*>/g, '<div class="theory-box">');
         t = t.replace(/<div class="theory-box"\s+style="background:\s*#ecfdf5[^"]*"[^>]*>/g, '<div class="theory-box">');
         t = t.replace(/<div class="theory-box"\s+style="margin:[^"]*"[^>]*>/g, '<div class="theory-box">');
@@ -62,7 +62,7 @@
     // ============================================
     function buildExercises() {
         let html = `<h1 class="chapter new-section">📝 2. Exerciții — cu rezolvări complete</h1>
-            <p style="margin-bottom: 10px; color: #6b7280; font-style: italic;">7 exerciții × 10 itemi = <strong>70 itemi de practică</strong>. Pentru fiecare exercițiu, întâi citește instrucțiunea, încearcă pe cont propriu, apoi verifică rezolvările.</p>`;
+            <p style="margin-bottom: 10px; color: #5A5147; font-style: italic;">7 exerciții × 10 itemi = <strong>70 itemi de practică</strong>. Pentru fiecare exercițiu, întâi citește instrucțiunea, încearcă pe cont propriu, apoi verifică rezolvările.</p>`;
 
         const exercises = [
             { num: 1, title: 'Übung 1 — 🏠 Capcanele cu Hause + persoane + bei + activitate', instr: 'nach Hause = MIȘCARE · zu Hause = POZIȚIE · bei + persoană = la cineva · beim + Verb-Nomen = în timp ce.', data: typeof ex1Data !== 'undefined' ? ex1Data : [] },
